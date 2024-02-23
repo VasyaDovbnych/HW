@@ -1,3 +1,14 @@
 .bg-box{
-    border-image: url(photo_2024-02-16_16-23-15.jpg);
+    width: 1200px;
+    height: 600px;
+    background-color: green;
+    background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.webp), 
+    url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru),
+    url(green-png-44873.png),
+    url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png), 
+    url(lamp-png-34914.png);
+    background-repeat: no-repeat, repeat-y, repeat-x, repeat-y, repeat-x;
+    background-size: 450px,80px,200px,60px,60px;
+    background-position: center, left top, right 450px, right, left top;
+    
 }
